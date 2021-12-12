@@ -18,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* Services CSS Styling */
 #srvcsLINKS {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +51,7 @@ p {
     margin-left: 25px;
 }
 
+/*Background Image*/
 #bkgIMG {
     height: 800px;
     width: 100%;
@@ -59,6 +61,7 @@ p {
     background-position: center;
 }
 
+/*Positioning of Service Offerings/Benefit Box*/
 .float-left {
     float: left;
     margin-right: 25px;
